@@ -10,9 +10,14 @@
 
 ## 🧠 Professional Summary
 
-I am a passionate **Full Stack .NET Developer** with a strong focus on building scalable, efficient, and user-friendly web applications. I am currently pursuing a **Bachelor’s degree in Information Systems** at the Faculty of Computers and Artificial Intelligence, Cairo University (expected graduation: **2027**).
-
-I have hands-on experience with **C#, ASP.NET Core, SQL Server, JavaScript**, and modern web technologies through academic projects, professional training, and real-world web development work. I am highly motivated, continuously learning, and committed to delivering impactful software solutions.
+- Passionate Full Stack .NET Developer with a strong interest in building scalable, efficient, and user-friendly applications.
+- Currently pursuing a Bachelor’s degree at the Faculty of Computers and Artificial Intelligence, Cairo University.
+- Major in Information Systems (IS) Department.
+- Expected graduation year: 2027.
+- Strong academic background complemented by hands-on project experience.
+- Skilled in both front-end and back-end development.
+- Technologies include C#, ASP.NET, JavaScript, and SQL.
+- Highly motivated by continuous learning and delivering impactful software solutions.
 
 ---
 
