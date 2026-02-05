@@ -4,7 +4,7 @@
 📍 Giza, Egypt  
 📧 hes93314@gmail.com  
 🔗 https://linkedin.com/in/ibrahim-mohamed-8077b428a  
-💻 https://github.com/Ibrahim-Mohamed12 
+💻 https://github.com/Ibrahim-Mohamed12         
 🌐 https://ibrahim-mohamed12.github.io/MyPortfolio/
 
 ---
