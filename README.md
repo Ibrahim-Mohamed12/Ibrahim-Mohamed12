@@ -4,7 +4,7 @@
 📍 Giza, Egypt  
 📧 hes93314@gmail.com  
 🔗 https://linkedin.com/in/ibrahim-mohamed-8077b428a  
-💻 https://github.com/QNQ124  
+💻 https://github.com/Ibrahim-Mohamed12
 🌐 https://ibrahim-mohamed12.github.io/MyPortfolio/
 
 ---
@@ -85,7 +85,7 @@ A digital platform for discovering and exploring books with previews and favorit
 Developed and upgraded the official website focusing on UI/UX and student engagement.
 
 Live Demo:
-- https://qnq124.github.io/DataStreet_Website/
+- https://Ibrahim-Mohamed12.github.io/DataStreet_Website/
 - https://www.thedatastreet.tech/
 
 ---
